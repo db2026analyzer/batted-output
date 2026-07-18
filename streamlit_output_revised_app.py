@@ -124,6 +124,11 @@ pitchername_filter = st.sidebar.radio(
         "堀川",
         "蓮香",
         "窪",
+        "南光",
+        "吉満",
+        "益田",
+        "高橋",
+        "髙田"
     ],
     horizontal=True,
 )
