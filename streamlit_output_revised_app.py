@@ -109,12 +109,6 @@ pitchername_filter = st.sidebar.radio(
     [
         "すべて",
         "なし",
-        "玉越",
-        "櫛田",
-        "菅野",
-        "永田",
-        "白石",
-        "宮﨑",
         "渚",
         "谷村",
         "武村",
@@ -128,7 +122,7 @@ pitchername_filter = st.sidebar.radio(
         "吉満",
         "益田",
         "高橋",
-        "髙田"
+        "髙田",
     ],
     horizontal=True,
 )
